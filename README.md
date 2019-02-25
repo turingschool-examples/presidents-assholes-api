@@ -5,7 +5,7 @@ In a new directory, create a brand new frontend for this project using `create-r
 ##### Iteration 0:  
 
 First thing we want to do is fetch some info for us to display. **Thunks are not required**
-You are going to want to grab all the president data and populate a redux store. You should also have `isLoading` and `hasErrored` properties in your store. The data can be found at this API endpoint: `get http://localhost:3001/api/v1/presidents`.
+You are going to want to grab all the president data and populate a redux store. You should also have `isLoading` and `hasErrored` properties in your store. The data can be found at this API endpoint: `get /api/v1/presidents`.
 
 ##### Iteration 1:
 
