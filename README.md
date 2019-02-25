@@ -1,4 +1,4 @@
-# Presidents and assholes
+# Presidents and Assholes
 
 In a new directory, create a brand new frontend for this project using `create-react-app` and clone down (and use) this api to build the following:
 
