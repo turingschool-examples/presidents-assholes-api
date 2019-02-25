@@ -9,7 +9,7 @@ You are going to want to grab all the president data and populate a redux store.
 
 ##### Iteration 1:
 
-Once you've populated your redux store with your data you are going to want to display the data as a card. While we wait for our data to arrive please provide a loading message for the front-end.
+Once you've populated your redux store with your data you are going to want to display the data as a card. While we wait for our data to arrive please provide a loading message for the front-end. If there is an error fetching the data, please let the user know.
 
 Things to display:
 `number, president, birth_year, death_year, took_office, left_office, party`
