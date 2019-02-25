@@ -22,6 +22,6 @@ You basically have a full website now. The only thing left to do is test your ac
 
 ##### Iteration 3:
 
-Add a party filter dropdown that determines which presidents to display based on political party. The current party should be stored in the redux store.
+Add a party filter dropdown that determines which presidents to display based on political party. The current party should be stored in the redux store (ex. No Party, Federalist, Democratic-Republican, Whig, Democratic, Republican).
 
 Test that filter functionality.
